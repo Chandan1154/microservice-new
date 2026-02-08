@@ -11,7 +11,6 @@ public class ProductServiceApplication {
 
 		SpringApplication.run(ProductServiceApplication.class, args);
 
-		System.out.println("chandan");
 	}
 
 }
