@@ -1,0 +1,7 @@
+/Users/chandan/Downloads/microservices-new/product-service/src/main/java/com/practice/product_service/ProductServiceApplication.java
+/Users/chandan/Downloads/microservices-new/product-service/src/main/java/com/practice/product_service/controller/ProductController.java
+/Users/chandan/Downloads/microservices-new/product-service/src/main/java/com/practice/product_service/dto/ProductRequest.java
+/Users/chandan/Downloads/microservices-new/product-service/src/main/java/com/practice/product_service/dto/ProductResponse.java
+/Users/chandan/Downloads/microservices-new/product-service/src/main/java/com/practice/product_service/model/Product.java
+/Users/chandan/Downloads/microservices-new/product-service/src/main/java/com/practice/product_service/repository/ProductRepository.java
+/Users/chandan/Downloads/microservices-new/product-service/src/main/java/com/practice/product_service/service/ProductService.java

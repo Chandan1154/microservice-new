@@ -1,0 +1,6 @@
+com/localprogramer/inventory_service/model/Inventory.class
+com/localprogramer/inventory_service/service/InventoryService.class
+com/localprogramer/inventory_service/repository/InventoryRepository.class
+com/localprogramer/inventory_service/InventoryServiceApplication.class
+com/localprogramer/inventory_service/controller/InventoryController.class
+com/localprogramer/inventory_service/dto/InventoryRequest.class
